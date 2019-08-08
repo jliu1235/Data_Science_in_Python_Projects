@@ -1,3 +1,4 @@
-# learngit
-This repository is used to store all the study materials .
-Everything is new to me and I feel excited about learning how to use github. I think the first footprint is quite important for me. So I call this "landmark".
+# This repository is used to store the projects done by Python language .
+# The first one is about the "Data Collection & Preparation" task
+# The second one is "Text Classification" task
+
